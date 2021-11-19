@@ -1,2 +1,2 @@
-# Bicileteria
-Proyecto practica autodidacta con Spring
+# Bicicleteria
+Proyecto JAVA practica autodidacta con Spring
